@@ -1,1 +1,1 @@
-worker: python god.py
+worker: python3 god.py
